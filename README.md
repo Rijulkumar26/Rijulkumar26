@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I'm a Deep_Learning enthusiast and a graduate from IIT Dharwad
 
 <!--
 **Rijulkumar26/Rijulkumar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
