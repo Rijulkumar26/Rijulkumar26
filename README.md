@@ -1,8 +1,8 @@
 ### Hi there 👋I'm a Deep_Learning enthusiast and a graduate from IIT Dharwad
 
-**📫 How to reach me:** <\br>
-**LinkedIn :** https://www.linkedin.com/in/rijul-kumar-699052220/ <\br>
-**Gmail:** reji266kumar@gmail.com <\br>
+**📫 How to reach me:** <br/>
+**LinkedIn :** https://www.linkedin.com/in/rijul-kumar-699052220/ <br/>
+**Gmail:** reji266kumar@gmail.com <br/>
 <!--
 **Rijulkumar26/Rijulkumar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
