@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<br/>
 I'm a Data Science Enthusiast and an IIT Allumni
 
 **📫 How to reach me:** <br/>
