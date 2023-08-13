@@ -2,7 +2,7 @@
 I'm a Data Science Enthusiast and an IIT Allumni<br/>
 
 ### 🌱 I’m currently learning<br/>
-Hugging Face transformers<br/>
+- Hugging Face transformers<br/>
 
 ### 📫 How to reach me: <br/>
 **LinkedIn :** https://www.linkedin.com/in/rijul-kumar-699052220/ <br/>
