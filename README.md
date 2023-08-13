@@ -1,7 +1,14 @@
 ### Hi there 👋<br/>
 I'm a Data Science Enthusiast and an IIT Allumni<br/>
 
-### :telescope: Expertise
+### :telescope: Expertise <br/>
+- Database: MySQL
+- Programming Language: Python
+- Data Visualization: PowerBI, Tableau
+- Automated Testing: Selenium
+- Machine Learning: Python (scikit-learn, TensorFlow, Pandas, Numpy, Matplotlib, Seaborn)
+- Natural Language Processing (NLP): Python (NLTK)
+- Computer Vision: Python (OpenCV, TensorFlow)
 
 ### 🌱 I’m currently learning<br/>
 - Hugging Face transformers<br/>
