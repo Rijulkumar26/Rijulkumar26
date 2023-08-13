@@ -1,6 +1,8 @@
 ### Hi there 👋<br/>
 I'm a Data Science Enthusiast and an IIT Allumni<br/>
 
+### telescope: Expertise
+
 ### 🌱 I’m currently learning<br/>
 - Hugging Face transformers<br/>
 
