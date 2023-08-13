@@ -1,4 +1,5 @@
-### Hi there 👋I'm a Data Science Enthusiast and an IIT Allumni
+### Hi there 👋
+I'm a Data Science Enthusiast and an IIT Allumni
 
 **📫 How to reach me:** <br/>
 **LinkedIn :** https://www.linkedin.com/in/rijul-kumar-699052220/ <br/>
