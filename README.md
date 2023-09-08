@@ -1,5 +1,5 @@
 ### Hi there 👋<br/>
-I'm a Data Science Enthusiast and an IIT Allumni<br/>
+I'm a Machine Learning Engineer and an IIT Allumni<br/>
 
 ### :telescope: Expertise <br/>
 - Database: MySQL
