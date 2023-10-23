@@ -1,4 +1,4 @@
-### Hi there 👋<br/>
+### 👋 Hi there<br/>
 I'm a Machine Learning Engineer and an IIT Allumni<br/>
 
 ### :telescope: Expertise <br/>
@@ -8,7 +8,7 @@ I'm a Machine Learning Engineer and an IIT Allumni<br/>
 - Automated Testing: Selenium
 - Machine Learning: Python (scikit-learn, TensorFlow, Pandas, Numpy, Matplotlib, Seaborn)
 - Natural Language Processing (NLP): Python (NLTK)
-- Computer Vision: Python (OpenCV, TensorFlow)
+- Computer Vision: Python (OpenCV, TensorFlow, Keras, Pillow)
 
 ### 🌱 I’m currently learning<br/>
 - Hugging Face transformers<br/>
